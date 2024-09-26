@@ -1,2 +1,2 @@
 # PuzzleCollector
-collects puzzles using CV
+собирает пазлы с помощью особых точек и кросс-корреляции 
